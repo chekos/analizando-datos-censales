@@ -1,6 +1,6 @@
 # useful tools for our project
 
-def tree(directory):
+def arbol(directory):
     print(f'+ {directory}')
     for path in sorted(directory.rglob('*')):
         depth = len(path.relative_to(directory).parts)
