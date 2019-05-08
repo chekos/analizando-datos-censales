@@ -37,7 +37,7 @@ conda install -c conda-forge pandas jupyterlab
 Ya que tengas los materiales y las bibliotecas de `Python` necesarias, dirigete a la carpeta **ejercisios** y activa una sesión de `Jupyter Lab`
 ```bash
 cd analizando-datos-censales
-cd ejercisios
+cd ejercicios
 jupyter lab
 ```
 
